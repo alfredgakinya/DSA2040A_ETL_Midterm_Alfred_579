@@ -35,7 +35,7 @@ Git + GitHub
 ``bash
 
 1. Clone the repository
-git clone 
+git clone https://github.com/alfredgakinya/DSA2040A_ETL_Midterm_Alfred_579
 
 2. Install dependencies
 pip install pandas matplotlib jupyter
